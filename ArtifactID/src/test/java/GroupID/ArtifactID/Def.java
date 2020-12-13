@@ -13,7 +13,7 @@ public class Def {
 
 	@Given("some other precondition")
 	public void some_other_precondition() {
-		System.out.println("second");
+		System.out.println("second 2nd");
 	}
 
 	@When("I complete action")
